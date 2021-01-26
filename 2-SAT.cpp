@@ -72,8 +72,8 @@ struct TwoSAT
 	}
 };
 
-Sample Problem 1: https://codeforces.com/contest/228/problem/E
-Sample Solution 1: https://codeforces.com/contest/228/submission/39775751
+// Sample Problem 1: https://codeforces.com/contest/228/problem/E
+// Sample Solution 1: https://codeforces.com/contest/228/submission/39775751
 
-Sample Problem 2: http://codeforces.com/contest/776/problem/D
-Sample Solution 2: http://codeforces.com/contest/776/submission/39776230
+// Sample Problem 2: http://codeforces.com/contest/776/problem/D
+// Sample Solution 2: http://codeforces.com/contest/776/submission/39776230
