@@ -56,5 +56,5 @@ int solve(int L, int R)
 	return d;
 }   
 
-Problem 1: http://codeforces.com/contest/429/problem/D
-Solution 1: http://codeforces.com/contest/429/submission/39494778
+// Problem 1: http://codeforces.com/contest/429/problem/D
+// Solution 1: http://codeforces.com/contest/429/submission/39494778

@@ -1,4 +1,4 @@
-1) String Matching - Hamming Distance:
+// 1) String Matching - Hamming Distance:
 
 // Logic: http://codeforces.com/blog/entry/59386
 

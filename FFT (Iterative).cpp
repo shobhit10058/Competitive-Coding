@@ -395,9 +395,9 @@ namespace FFT {
 	}
 }
 
-4 Call FFT with MOD: http://p.ip.fi/ultI
+// 4 Call FFT with MOD: http://p.ip.fi/ultI
 
-Single Call without MOD: http://p.ip.fi/f1Zh
+// Single Call without MOD: http://p.ip.fi/f1Zh
 
 //Problem 1: https://www.codechef.com/problems/COUNTWAY/
 //Solution 1 (Divide and Conquer): https://www.codechef.com/viewsolution/19144054
